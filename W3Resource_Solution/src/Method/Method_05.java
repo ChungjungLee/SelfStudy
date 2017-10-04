@@ -1,3 +1,4 @@
+package Method;
 /*
  * Write a Java method to count all words in a string.
  * 

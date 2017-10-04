@@ -1,3 +1,4 @@
+package Method;
 /*
  * Write a Java method to print characters 
  * between two characters (i.e. A to P ).

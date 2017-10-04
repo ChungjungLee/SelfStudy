@@ -1,3 +1,4 @@
+package Method;
 /*
  * Write Java methods to calculate the area of a triangle. 
  * 

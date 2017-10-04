@@ -1,3 +1,4 @@
+package Array;
 
 /*
  * Write a Java program to find the sum of the two elements 

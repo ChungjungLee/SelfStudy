@@ -1,3 +1,4 @@
+package Method;
 /*
  * Write a Java method to compute the average of three numbers.
  * 

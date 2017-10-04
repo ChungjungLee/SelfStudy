@@ -1,3 +1,4 @@
+package Method;
 /*
  * Write a Java method to create the area of a pentagon.
  * 

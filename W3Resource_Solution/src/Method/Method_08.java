@@ -1,3 +1,4 @@
+package Method;
 /*
  * Write a Java method to compute the future investment value 
  * at a given interest rate for a specified number of years.

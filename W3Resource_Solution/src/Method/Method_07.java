@@ -1,3 +1,4 @@
+package Method;
 /*
  *Write a Java method to display the first 50 pentagonal numbers.
  *Note: A pentagonal number is a figurate number that 

@@ -1,3 +1,4 @@
+package Method;
 /*
  * Write a Java method to check whether a year (integer) 
  * entered by the user is a leap year or not.

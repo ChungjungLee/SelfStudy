@@ -1,3 +1,4 @@
+package Method;
 /*
  * Write a Java method to find all twin prime numbers less than 100.
  * 
