@@ -9,7 +9,7 @@ import java.util.Calendar;
 import java.util.Formatter;
 import java.util.Locale;
 
-public class Method15 {
+public class Method_15 {
 
 	public static void main(String[] args) {
 		
