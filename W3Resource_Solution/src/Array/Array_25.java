@@ -20,8 +20,6 @@ public class Array_25 {
 		 * 
 		 * */
 		
-		
-		
 	}
 	
 	public static void findCommon(int[] arr1, int[] arr2, int[] arr3, int[] indexArr) {
