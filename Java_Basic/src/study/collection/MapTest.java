@@ -48,6 +48,10 @@ public class MapTest {
 		/*
 		 * Map에 저장된 데이터를 방문할 때는 Map.Entry라는 interface를 사용해야만 한다.
 		 * Map.Entry는 Map interface의 내부 interface로 선언되어 있다.
+		 * 
+		 * Map.entrySet()을 하게되면 key와 value를 set형식으로 저장할 수 있다.
+		 * 이 때 set의 type은 Map.Entry
+		 *  
 		 */
 		for (Map.Entry<String, Student> s : st.entrySet()) {
 			String key = s.getKey();
