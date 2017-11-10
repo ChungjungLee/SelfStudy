@@ -1,4 +1,4 @@
-package study.designpattern;
+package study.designpattern.singleton;
 
 public class SingletonHolder {
 	// 해당 클래스의 생성자

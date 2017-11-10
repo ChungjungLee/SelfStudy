@@ -1,4 +1,4 @@
-package study.designpattern;
+package study.designpattern.singleton;
 
 public class SingletonBasic {
 	private static SingletonBasic instance;
