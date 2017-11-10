@@ -27,9 +27,9 @@ public class PhotoEngineTest {
 		/*
 		 * 이렇게 interface를 상속하도록 adapter를 만들면 확장성이 용이해진다.
 		 */
-		PhotoEngine oldLib = new OldLibraryAdapter();
+		PhotoEngine oldLib2 = new OldLibraryAdapter();
 		
-		oldLib.printPhotoAll(photoList);
+		oldLib2.printPhotoAll(photoList);
 		
 		/*
 		 * 결국 코드를 수정할 때 기존의 코드 로직은 변경하지 않고 새로운 클래스 
